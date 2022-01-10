@@ -19,8 +19,8 @@ Run the `EDA.ipynb` file for data preprocessing and EDA.
   - Visualized consumption by hour, day, month and year to seek insights on potential patterns
   - Produced heatmap and boxplot to search correlations between holiday and consumption
 
-### forecast.ipynb
-Run `forecast.ipynb` file for model training, evaluation and prediction.
+### Forecast.ipynb
+Run the `Forecast.ipynb` file for model training, evaluation and prediction.
 - **Model Training, Evaluation**
   1. Ridge Regression: Used to model linear relationships between multiple features and one response
   2. SARIMAX: Used for comparison between traditional time series model and machine learning model
